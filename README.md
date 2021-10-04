@@ -2,14 +2,13 @@
 I am a full-stack software engineer bootcamp graduate with an educational background in Financial Economics and Accounting.
 
 ### Projects 📂
-
-**⦁ Lego Displayer** [Demo](https://drive.google.com/file/d/12tC1mxwQ1V_FhXtfgZ-8R8ry3aLe0ocW/view) | [Frontend](https://github.com/cwonjin11/React-Redux-Project-lego-displayer-frontend) | [Backend](https://github.com/cwonjin11/React-Redux-Project-lego-displayer-backend)
+**Lego Displayer** [Demo](https://drive.google.com/file/d/12tC1mxwQ1V_FhXtfgZ-8R8ry3aLe0ocW/view) | [Frontend](https://github.com/cwonjin11/React-Redux-Project-lego-displayer-frontend) | [Backend](https://github.com/cwonjin11/React-Redux-Project-lego-displayer-backend)
    - Created an application for lego builders to display, describe and share with others their finished projects.
 
-**⦁ Dinosaur Flash Card** [Demo](https://drive.google.com/file/d/1K6elB_7EcpeyMndoADfOWIe2EH-KV9u3/view) | [Frontend](https://github.com/cwonjin11/JS-Rails-Project-Frontend) | [Backend](https://github.com/cwonjin11/JS-Rails-Project-Backend)
+**Dinosaur Flash Card** [Demo](https://drive.google.com/file/d/1K6elB_7EcpeyMndoADfOWIe2EH-KV9u3/view) | [Frontend](https://github.com/cwonjin11/JS-Rails-Project-Frontend) | [Backend](https://github.com/cwonjin11/JS-Rails-Project-Backend)
    - An educational SPA to learn all types of dinosaurs using user created flashcards.
 
-**⦁ Rate My Hairstylist** [Demo](https://drive.google.com/file/d/1Qe1-ygtGggFIlaVsYm8m4GS6fW96FGp3/view) | [Repo](https://github.com/cwonjin11/rate-my-hairstylist)
+**Rate My Hairstylist** [Demo](https://drive.google.com/file/d/1Qe1-ygtGggFIlaVsYm8m4GS6fW96FGp3/view) | [Repo](https://github.com/cwonjin11/rate-my-hairstylist)
    - Full CRUD web app resembling a social network. Users create hairstylist reviews with ratings and comments.
 
 ### Contact Me 📫
