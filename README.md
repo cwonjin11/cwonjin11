@@ -5,13 +5,18 @@ I am a full-stack software engineer bootcamp graduate with an educational backgr
 **Lego Displayer** [Demo](https://drive.google.com/file/d/12tC1mxwQ1V_FhXtfgZ-8R8ry3aLe0ocW/view) | [Frontend](https://github.com/cwonjin11/React-Redux-Project-lego-displayer-frontend) | [Backend](https://github.com/cwonjin11/React-Redux-Project-lego-displayer-backend)
    - Created an application for lego builders to display, describe and share with others their finished projects.
 
-**🦖Dinosaur Flash Card** [Demo](https://drive.google.com/file/d/1K6elB_7EcpeyMndoADfOWIe2EH-KV9u3/view) | [Frontend](https://github.com/cwonjin11/JS-Rails-Project-Frontend) | [Backend](https://github.com/cwonjin11/JS-Rails-Project-Backend)
+**Dinosaur Flash Card** [Demo](https://drive.google.com/file/d/1K6elB_7EcpeyMndoADfOWIe2EH-KV9u3/view) | [Frontend](https://github.com/cwonjin11/JS-Rails-Project-Frontend) | [Backend](https://github.com/cwonjin11/JS-Rails-Project-Backend)
    - An educational SPA to learn all types of dinosaurs using user created flashcards.
 
 **Rate My Hairstylist** [Demo](https://drive.google.com/file/d/1Qe1-ygtGggFIlaVsYm8m4GS6fW96FGp3/view) | [Repo](https://github.com/cwonjin11/rate-my-hairstylist)
    - Full CRUD web app resembling a social network. Users create hairstylist reviews with ratings and comments.
 
-### How te Reach Me 📫
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwonjin11&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwonjin11&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### How to Reach Me 📫
 
 <a href="https://www.linkedin.com/in/wonjin-cho-987b4219b/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
