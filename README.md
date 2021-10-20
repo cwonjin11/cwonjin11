@@ -1,7 +1,7 @@
 ## Hi, I'm Wonjin 👋
 I am a full-stack software engineer bootcamp graduate with an educational background in Financial Economics and Accounting.
 
-### Projects 📂
+### My Projects 📂
 **Lego Displayer** [Demo](https://drive.google.com/file/d/12tC1mxwQ1V_FhXtfgZ-8R8ry3aLe0ocW/view) | [Frontend](https://github.com/cwonjin11/React-Redux-Project-lego-displayer-frontend) | [Backend](https://github.com/cwonjin11/React-Redux-Project-lego-displayer-backend)
    - Created an application for lego builders to display, describe and share with others their finished projects.
 
