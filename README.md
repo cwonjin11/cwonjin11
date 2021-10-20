@@ -12,9 +12,8 @@ I am a full-stack software engineer bootcamp graduate with an educational backgr
    - Full CRUD web app resembling a social network. Users create hairstylist reviews with ratings and comments.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwonjin11&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwonjin11&layout=compact&langs_count=10&theme=solarized-light&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwonjin11&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How to Reach Me 📫
 
