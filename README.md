@@ -18,6 +18,8 @@ I am a full-stack software engineer bootcamp graduate with an educational backgr
 <a href="https://www.linkedin.com/in/wonjin-cho-987b4219b/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <a href="https://dev.to/cwonjin11" target="blank"><img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+
+<a href="https://wjcho.netlify.app/" target="blank"><img align="left" src="https://img.shields.io/badge/website-32A350?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <br/><br/>
 
 ## Technology 🛠
